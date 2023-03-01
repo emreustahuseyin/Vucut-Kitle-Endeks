@@ -1,5 +1,6 @@
 # Vucut-Kitle-Endeks
 
+        
         import java.util.Scanner;
         
         public class boyKiloendeks {
@@ -23,4 +24,4 @@
 
 
     }
-}
+  }
