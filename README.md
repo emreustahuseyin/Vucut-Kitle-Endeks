@@ -21,7 +21,7 @@
 
         System.out.println(" Vucut Kitle Endeksiniz " + sonuc );
 
-
-
     }
   }
+
+
