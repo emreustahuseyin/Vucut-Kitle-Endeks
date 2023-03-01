@@ -20,7 +20,7 @@
         double sonuc = kilo/(boy*boy);
 
         System.out.println(" Vucut Kitle Endeksiniz " + sonuc );
- }
-}
+        }
+       }
 
 
